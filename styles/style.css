@@ -23,3 +23,7 @@ h1 {
 p { 
     font-size: 22px;
 }
+
+canvas {
+    border: 1px solid black;
+}
